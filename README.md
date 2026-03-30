@@ -1,3 +1,7 @@
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![Data Analytics](https://img.shields.io/badge/Field-Data%20Analytics-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 📊 AdventureWorks Sales Analytics Dashboard
 
 ## 🧠 Business Problem
